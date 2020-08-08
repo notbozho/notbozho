@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Visits Badge](https://badges.pufler.dev/visits/notbozho/git-badges)
+![Visits Badge](https://badges.pufler.dev/visits/notbozho/)
 [![Years Badge](https://badges.pufler.dev/years/notbozho)](https://bozholikes.tech)
 [![Repos Badge](https://badges.pufler.dev/repos/notbozho)](https://github.com/notbozho?tab=repositories)
 
