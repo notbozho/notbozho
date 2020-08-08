@@ -22,7 +22,7 @@
 
 You can easily contact me via:
 
-* **E-mail**: bozhoivanow@gmail.com or *bozho@bozholikes.tech
+* **E-mail**: bozhoivanow@gmail.com or *bozho@bozholikes.tech*
 * **Discord**: Bozho#4881
 
 ## Random Developer Joke
