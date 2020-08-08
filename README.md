@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Repos Badge](https://badges.pufler.dev/repos/notbozho)
+[![Repos Badge](https://badges.pufler.dev/repos/notbozho)(https://github.com/notbozho?tab=repositories)]
 
 My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Currently focusing on learning the MERN Stack.
 
