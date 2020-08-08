@@ -9,7 +9,7 @@ My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Cu
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
