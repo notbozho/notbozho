@@ -2,10 +2,7 @@
 
 # Hi there 👋
 
-[![Years Badge](https://badges.pufler.dev/years/notbozho)](https://bozholikes.tech)
-[![Repos Badge](https://badges.pufler.dev/repos/notbozho)](https://github.com/notbozho?tab=repositories)
-
-My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Currently focusing on learning the MERN Stack.
+**My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Currently focusing on learning the MERN Stack.**
 
 ## ⚡ Technologies
 
@@ -21,6 +18,12 @@ My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Cu
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## How to contact me?
+
+You can easily contact me via:
+
+* **E-mail**: bozhoivanow@gmail.com or *bozho@bozholikes.tech
+* **Discord**: Bozho#4881
 
 ## Random Developer Joke
 
