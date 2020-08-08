@@ -1,3 +1,5 @@
+![Header](https://media.giphy.com/media/llxMRJAsSjXsJ5ktIv/giphy.gif)
+
 # Hi there 👋
 
 [![Years Badge](https://badges.pufler.dev/years/notbozho)](https://bozholikes.tech)
