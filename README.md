@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+
 My name is Bozho, average teen from Bulgaria. Mainly working with javascript. Currently focusing on learning the MERN Stack.
 
 ## ⚡ Technologies
