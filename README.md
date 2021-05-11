@@ -1,3 +1,6 @@
-# Hi there <img src="https://media0.giphy.com/media/VHrQuDmTZMlRaBDL80/giphy.gif?cid=ecf05e47zj9a6ofh76bi56z513h63w24g0mazkt30m5rmbis&rid=giphy.gif" width="25">
+## 𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹𝗱 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+Sup, my name's Bozho Ivanow, nice to meet ya😆. I'm Skater and wannabe Developer who plays with <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15px"> since 1.5 years and a bit of <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="15px"> since 2021.
+I love to explore and learn about new things!
 
 ![AboutMe](https://i.imgur.com/sOtNsiL.png)
