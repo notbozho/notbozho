@@ -1,5 +1,5 @@
 ## 𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹𝗱 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Sup, my name's Bozho Ivanow, nice to meet ya😆. I'm Skater and wannabe Developer who plays with <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15px"> since 1.5 years and a bit of <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="15px"> since 2021.
+Skater and wannabe Developer who plays with <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15px"> since 1.5 years and a bit of <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="15px"> since early 2021.
 I love to explore and learn about new things!
 
