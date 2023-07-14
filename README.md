@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-Java-black?logo=oracle&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-SpringBoot-black?logo=springboot&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge&logoColor=violet"></img>
+  <img src="https://img.shields.io/badge/-Solidity-black?logo=solidity&style=for-the-badge&logoColor=violet"></img>
   
   <h1> Familiar with/Still learning about: </h1>
   <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge&logoColor=violet"></img>
