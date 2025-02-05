@@ -12,12 +12,4 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-Solidity-black?logo=solidity&style=for-the-badge&logoColor=violet"></img>
   
-  <h1> Familiar with/Still learning about: </h1>
-  <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-C Sharp-black?logo=csharp&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-Spring%20Security-black?logo=springsecurity&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-Hibernate-black?logo=hibernate&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=for-the-badge&logoColor=violet"></img>
-  
 </div>
