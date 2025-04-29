@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-Express-black?logo=express&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-Java-black?logo=oracle&style=for-the-badge&logoColor=violet"></img>
-  <img src="https://img.shields.io/badge/-SpringBoot-black?logo=springboot&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge&logoColor=violet"></img>
   <img src="https://img.shields.io/badge/-Solidity-black?logo=solidity&style=for-the-badge&logoColor=violet"></img>
   
