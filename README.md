@@ -6,7 +6,7 @@
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  Solidity - Foundry - Hardhat - TypeScript - Java<br>
+  Solidity - Foundry - Hardhat - TypeScript - Java - React<br>
 </p>
 
 <h2 align="center">Selected Work</h2>
