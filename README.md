@@ -1,4 +1,4 @@
-<h1 align="center">Bozho</h1>
+<h1 align="center">Bozhidar Ivanov</h1>
 <p align="center">
   <strong>Solidity Developer • Smart Contract Auditor</strong><br>
 </p>
