@@ -3,15 +3,11 @@
   <strong>Solidity Developer • Smart Contract Auditor</strong><br>
 </p>
 
-<br>
-
 <h2 align="center">Stack</h2>
 
 <p align="center">
   Solidity - Foundry - Hardhat - TypeScript - Java<br>
 </p>
-
-<br>
 
 <h2 align="center">Selected Work</h2>
 
@@ -34,8 +30,6 @@
   Custom static analysis bot for Solidity built for identifying common smart contract bugs via AST and Regex inspection.<br>
   Successfully competed in Code4rena's BotRaces — placed top 3 multiple times and achieved 1st place in select races.<br>
 </p>
-
-<br>
 
 <h2 align="center">Contact</h2>
 <p align="center">
