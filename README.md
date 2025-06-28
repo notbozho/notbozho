@@ -36,5 +36,5 @@
   <a href="mailto:bozhoivanow@gmail.com">Email</a> · 
   <a href="https://github.com/notbozho">GitHub</a> · 
   <a href="https://twitter.com/0xBozho">Twitter</a> ·
-  <a href="https://t.me/@notbozho">Telegram</a>
+  <a href="https://t.me/notbozho">Telegram</a>
 </p>
