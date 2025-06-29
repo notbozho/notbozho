@@ -21,13 +21,13 @@
 
 <p align="center">
   <strong>🧪 Security Contest Portfolio</strong><br>
-  Submissions on Sherlock,Code4rena and CodeHawks showcasing audit reports, vulnerability discoveries, and ranked placements.<br>
+  Submissions on Sherlock, Code4rena and CodeHawks showcasing vulnerability discoveries, and ranked placements.<br>
   <a href="https://audits.sherlock.xyz/watson/Bozho">[Portfolio Link]</a>
 </p>
 
 <p align="center">
   <strong>🤖 Static Analysis Bot</strong><br>
-  Custom static analysis bot for Solidity built for identifying common smart contract bugs via AST and Regex inspection.<br>
+  Custom static analysis bot for Solidity built for identifying common smart contract<br> bugs via AST and Regex inspection with over 500 custom rules.<br>
   Successfully competed in Code4rena's BotRaces — placed top 3 multiple times and achieved 1st place in select races.<br>
 </p>
 
