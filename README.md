@@ -1,12 +1,12 @@
 <h1 align="center">Bozhidar Ivanov</h1>
 <p align="center">
-  <strong>Solidity Developer • Smart Contract Auditor</strong><br>
+  <strong>Full stack Web3 Developer • Smart Contract Auditor</strong><br>
 </p>
 
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  Solidity - Foundry - Hardhat - TypeScript - Java - React - ether.js - viem<br>
+  Solidity - Foundry - Hardhat - TypeScript - Java - Next.js - Redux - TailwindCSS - Zustand - React - ether.js - viem<br>
 </p>
 
 <h2 align="center">Selected Work</h2>
