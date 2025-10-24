@@ -16,7 +16,7 @@
   High-performance landing page designed in Figma and built with Astro.js.<br>
   Achieved perfect 100/100 Lighthouse scores across all metrics (Performance, Accessibility, SEO, Best Practices).<br>
   Features AVIF image optimization, WCAG AA compliance, and sub-1-second load times.<br>
-  <a href="https://github.com/yourusername/vet-clinic">[Repository Link]</a> · <a href="https://your-demo-url.com">[Live Demo]</a>
+  <a href="https://github.com/notbozho/titivet">[Repository Link]</a> · <a href="https://titivet.netlify.app">[Live Demo]</a>
 </p>
 
 <p align="center">
