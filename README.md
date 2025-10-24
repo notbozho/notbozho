@@ -1,15 +1,29 @@
 <h1 align="center">Bozhidar Ivanov</h1>
 <p align="center">
-  <strong>Full stack Web3 Developer • Smart Contract Auditor</strong><br>
+  <strong>Frontend Developer • Fullstack Web3 Developer</strong><br>
 </p>
 
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  Solidity - Foundry - Hardhat - TypeScript - Java - Next.js - Redux - TailwindCSS - Zustand - React - ether.js - viem<br>
+  React - TailwindCSS - TypeScript - Next.js - Redux - Zustand - Java - Solidity - Foundry - Hardhat - ether.js - viem<br>
 </p>
 
 <h2 align="center">Selected Work</h2>
+
+<p align="center">
+  <strong>🏥 Veterinary Clinic Landing Page</strong><br>
+  High-performance landing page designed in Figma and built with Astro.js.<br>
+  Achieved perfect 100/100 Lighthouse scores across all metrics (Performance, Accessibility, SEO, Best Practices).<br>
+  Features AVIF image optimization, WCAG AA compliance, and sub-1-second load times.<br>
+  <a href="https://github.com/yourusername/vet-clinic">[Repository Link]</a> · <a href="https://your-demo-url.com">[Live Demo]</a>
+</p>
+
+<p align="center">
+  <strong>🤖 Static Analysis Bot</strong><br>
+  Custom static analysis bot for Solidity built for identifying common smart contract<br> bugs via AST and Regex inspection with over 500 custom rules. Build on Node.js<br>
+  Successfully competed in Code4rena's BotRaces — placed top 3 multiple times and achieved 1st place in select races.<br>
+</p>
 
 <p align="center">
   <strong>⚖️ Isolated-Market Lending Protocol</strong><br>
@@ -17,18 +31,6 @@
   Integrates Chainlink oracles and OpenZeppelin proxy upgradability.<br>
   Test suite includes deep unit tests, fuzzing, and invariants to validate critical logic.<br>
   <a href="https://github.com/notbozho/IsolatedLending">[Repository Link]</a>
-</p>
-
-<p align="center">
-  <strong>🧪 Security Contest Portfolio</strong><br>
-  Submissions on Sherlock, Code4rena and CodeHawks showcasing vulnerability discoveries, and ranked placements.<br>
-  <a href="https://audits.sherlock.xyz/watson/Bozho">[Portfolio Link]</a>
-</p>
-
-<p align="center">
-  <strong>🤖 Static Analysis Bot</strong><br>
-  Custom static analysis bot for Solidity built for identifying common smart contract<br> bugs via AST and Regex inspection with over 500 custom rules.<br>
-  Successfully competed in Code4rena's BotRaces — placed top 3 multiple times and achieved 1st place in select races.<br>
 </p>
 
 <h2 align="center">Contact</h2>
