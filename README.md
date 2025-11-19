@@ -12,6 +12,13 @@
 <h2 align="center">Selected Work</h2>
 
 <p align="center">
+  <strong>📊 Defi Lending Dashboard</strong><br>
+  Lending dashboard built with Next.js + TypeScript integrating Aave markets with real-time analtics<br>
+  Features web3 wallet integration via wagmi, smooth micro-interactions via framer-motion and real-time market charts via recharts<br>
+  <a href="https://github.com/notbozho/defi-lending-dashboard">[Repository Link]</a>
+</p>
+
+<p align="center">
   <strong>🏥 Veterinary Clinic Landing Page</strong><br>
   High-performance landing page designed in Figma and built with Astro.js.<br>
   Achieved perfect 100/100 Lighthouse scores across all metrics (Performance, Accessibility, SEO, Best Practices).<br>
