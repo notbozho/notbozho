@@ -13,7 +13,7 @@
 
 <p align="center">
   <strong>📊 Defi Lending Dashboard</strong><br>
-  Lending dashboard built with Next.js + TypeScript integrating Aave markets with real-time analtics<br>
+  Lending dashboard built with Next.js + TypeScript integrating Aave markets with real-time analytics<br>
   Features web3 wallet integration via wagmi, smooth micro-interactions via framer-motion and real-time market charts via recharts<br>
   <a href="https://github.com/notbozho/defi-lending-dashboard">[Repository Link]</a>
 </p>
