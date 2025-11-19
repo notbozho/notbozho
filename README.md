@@ -6,7 +6,7 @@
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  React - TailwindCSS - TypeScript - Next.js - Redux - Zustand - Java - Solidity - Foundry - Hardhat - ether.js - viem<br>
+  React - TailwindCSS - TypeScript - Next.js - Redux - Zustand - Solidity - Foundry - wagmi - viem<br>
 </p>
 
 <h2 align="center">Selected Work</h2>
